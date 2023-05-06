@@ -1,0 +1,46 @@
+
+h1 {
+    text-align: center;
+}
+header { 
+    background-color: darkseagreen;
+    color: azure;
+    padding-top: 5px;
+}
+.nav {
+    background-color: grey;
+    color: aliceblue;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+header { 
+    background-color: rgb(194, 232, 220);
+}
+h1{ 
+    color: gray;
+    
+}
+p { 
+    text-align: center;
+    color:green;
+    font-style: italic;
+}
+img {
+    display: block;
+    margin: auto;
+}
+iframe {
+    display: block;
+    margin: auto;
+}
+body{
+    background-color: bisque;
+}
+footer {
+    background-color: rgb(194, 232, 220)
+}
+
+.redsoc {
+    color: antiquewhite;
+}
